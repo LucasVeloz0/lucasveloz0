@@ -33,11 +33,10 @@ section#topo {
     background: #534d4d8c;
 }
 
-table {    
-    border-collapse: collapse;
-    width: 300px;
-    border: 5px solid #cccccc34;
+li {        
+    border: 1px solid #cccccc34;
     text-align: center;
+    background-color: rgba(41, 33, 33, 0.377);
 }
 
 a {
@@ -50,8 +49,19 @@ a {
 
 }
 
-th#titulo {
+ul {
+    text-align: center;
+}
+
+ul#titulo {
     color: white;
+    text-decoration: underline;
+}
+
+li:hover {
+    background-color: rgba(128, 128, 128, 0.459);
+    color: white;
+    text-decoration: underline;
 }
 
 a.voltar-ao-topo {
@@ -74,4 +84,12 @@ a.voltar-ao-topo:hover {
     transition: 0.5s;
 }
 
-
+footer {
+    background-color: rgba(128, 128, 128, 0.363);
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%
+}

@@ -49,13 +49,10 @@ a {
 
 }
 
-ul {
-    text-align: center;
-}
-
 ul#titulo {
     color: white;
     text-decoration: underline;
+    text-align: center;
 }
 
 li:hover {

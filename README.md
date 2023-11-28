@@ -30,5 +30,6 @@ Se você está procurando um desenvolvedor JavaScript apaixonado e disposto a ap
 
 - LinkedIn: https://www.linkedin.com/in/lucas-veloz0
 - Email: lucas.geliet@gmail.com .
+- Portifólio: https://lucasveloz0.github.io/lucasveloz0/
 
 Fique à vontade para entrar em contato para discutir oportunidades ou apenas para trocar ideias sobre desenvolvimento web e JavaScript. Vamos construir algo incrível juntos!

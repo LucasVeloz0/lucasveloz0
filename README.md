@@ -1,16 +1,34 @@
-### Hi there 👋
+## Sobre Mim
 
-<!--
-**LucasVeloz0/lucasveloz0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Meu nome é Lucas Velozo, e sou um entusiasta de programação com um foco especial em JavaScript. Tenho um conhecimento intermediário a avançado em JavaScript e estou em busca de oportunidades para aprimorar minhas habilidades e ganhar experiência na prática.
 
-Here are some ideas to get you started:
+- 💼 Atualmente, Desempregado em busca de uma oportunidade !.
+- 🌱 Estou constantemente aprendendo e buscando maneiras de me aprimorar em JavaScript e tecnologias relacionadas.
+- 📚 Tenho uma base sólida em HTML, CSS, Git e GitHub e estudo muito sobre JavaScript.
+- 🚀 Estou empolgado em trabalhar em projetos desafiadores e colaborar com outros desenvolvedores talentosos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Objetivos
+
+Meus principais objetivos incluem:
+
+- Expandir meu conhecimento em JavaScript e suas bibliotecas/frameworks.
+- Trabalhar em projetos do mundo real para ganhar experiência prática.
+- Colaborar com outros profissionais de tecnologia.
+- Contribuir para projetos de código aberto.
+
+## Oportunidades
+
+Estou aberto a várias oportunidades, incluindo:
+
+- Estágios ou posições de desenvolvimento juniores.
+- Colaboração em projetos de código aberto.
+- Trabalho freelance em projetos web.
+
+Se você está procurando um desenvolvedor JavaScript apaixonado e disposto a aprender, fique à vontade para entrar em contato comigo! Estou ansioso para contribuir e crescer como desenvolvedor.
+
+## Contato
+
+- LinkedIn: https://www.linkedin.com/in/lucas-veloz0
+- Email: lucas.geliet@gmail.com .
+
+Fique à vontade para entrar em contato para discutir oportunidades ou apenas para trocar ideias sobre desenvolvimento web e JavaScript. Vamos construir algo incrível juntos!

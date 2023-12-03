@@ -5,16 +5,11 @@
 
 }
 
-html {
-    
-    
-}
-
-
 body {    
     background: linear-gradient(120deg, #000000, #101010, #2c2c2c, #535353);
     background-size: 400% 400%;
-    animation: gradient 15s infinite;
+    animation: gradient 12s infinite;
+    
     
 }
 
@@ -36,35 +31,27 @@ h1 {
     text-align: center;
 }
 
-
-
-span {
-       
-}
-
 header {
+    text-align: center;
     margin: auto;
     padding: auto;
     text-align: center;
-    display: block;
+    display: grid;
 }
 
-section {
-    display: grid;
+section {    
     justify-content: center;
     /* border: 1px solid black; */
+    padding: 30px;
 }
 
 .topo {   
     align-items: center;
-    justify-content: center; 
-  
+    justify-content: center;   
 }
 
 div#apresentacao {
-    display: flex;
-       
-       
+    display: flex;            
 }
 
 section.habilidades {
@@ -72,7 +59,6 @@ section.habilidades {
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-
 }
 
 div.habilidades{
@@ -85,9 +71,7 @@ div.habilidades{
 .imghabilidades {    
     height: 120px;
     width: auto;
-    margin: auto;
-   
-    
+    margin: auto;     
 }
 
 span.titulohabilidades {
@@ -103,20 +87,15 @@ span.titulohabilidades {
     padding: 1em;
     max-width: 1080px;
     font-size: 1.2em; 
-    font-weight: bold;  
-       
+    font-weight: bold;        
 }
-
-
 
 #ilustracao {
     display: flex;
     max-height: 35em;
     max-width: 25em;       
     border-radius: 35%; 
-    align-items: center;    
-    
-    
+    align-items: center;       
 }
 
 @media (max-width: 580px) {
@@ -139,7 +118,6 @@ span.titulohabilidades {
         max-width: 100%;                
     }
 }
-
 
 span {
     color: #aeaeae;    
@@ -164,32 +142,34 @@ h2 {
     color: #aeaeae;
 }
 
-
 a {
     text-decoration: none;
 }
 
-
-#projetos {     
-    display: grid;
-     
-    text-align: center;
+@media (min-width: 720px) {
+    .projetos-container {
+        grid-template-columns:1fr 1fr;
+        justify-content: center;
+    }
 }
 
-.projeto-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px; 
-     
+div.projetos-container{
+     display: grid;     
+     justify-content: center;     
 }
 
-.projeto-card {
-    display: grid;
-    width: 300px;
-    padding: 10px;
-    margin: auto;
-    
-    background-color: #4f4f4f26;
+#projetos {
+    padding: 30px;
+}
+
+.projeto-card {    
+    width: 20em;
+    padding: 20px;
+    margin: auto;    
+}
+
+.projeto-card div {
+    display: grid;    
 }
 
 .projeto-card img {
@@ -199,29 +179,56 @@ a {
 }
 
 .projeto-card h3 {
+    text-align: center;
     margin-top: 10px;
     color: #aeaeae;
 }
-
-
 
 abbr {
     text-decoration: none;
 }
 
-
 footer {
     background-color: rgba(128, 128, 128, 0.363);
+    border-radius: 10px;
     color: white;
     text-align: center;
-    padding: 10px 0;    
-    bottom: 0;
+    padding: 30px;  
     width: 100%
 }
-
 
 .construindo {
     font-size: 3em;
     font-weight: bolder;
     color: aliceblue;
+}
+
+#contato-container {     
+    padding: 30px;
+    
+}
+
+.contato-container {
+    display: flex;
+    justify-content: center;
+}
+
+.contato {
+    margin: 10px;      
+
+}
+
+.contato img {
+    height: 80px;
+    width: 80px;
+}
+
+.contato p {
+    text-align: center;    
+}
+
+#link:hover {
+    background-color: #535353;
+    border-radius: 10px;
+    transition: background-color 0.5s ease;
 }

@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Lucas Velozo, e sou um entusiasta de programação com um foco especial em JavaScript. Tenho um conhecimento intermediário a avançado em JavaScript e estou em busca de oportunidades para aprimorar minhas habilidades e ganhar experiência na prática.
 
-- 💼 Atualmente, Desempregado em busca de uma oportunidade !.
+- 💼 Guarda-Vidas de piscina enquanto aprimoro minhas habilidades e busco uma oportunidade no na area da tecnologia !.
 - 🌱 Estou constantemente aprendendo e buscando maneiras de me aprimorar em JavaScript e tecnologias relacionadas.
 - 📚 Tenho uma base sólida em HTML, CSS, Git e GitHub e estudo muito sobre JavaScript.
 - 🚀 Estou empolgado em trabalhar em projetos desafiadores e colaborar com outros desenvolvedores talentosos.

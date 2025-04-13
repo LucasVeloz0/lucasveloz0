@@ -1,35 +1,49 @@
-## Sobre Mim
+# 👋 Lucas Velozo | Front-End Developer (JavaScript/React)
 
-Olá! Meu nome é Lucas Velozo, e sou um entusiasta de programação com um foco especial em JavaScript. Tenho um conhecimento intermediário a avançado em JavaScript e estou em busca de oportunidades para aprimorar minhas habilidades e ganhar experiência na prática.
+**Desenvolvedor Front-End focado em JavaScript e React, em transição de carreira para a tecnologia.**  
+*"Transformando linhas de código em soluções eficientes."*
 
-- 💼 Guarda-Vidas de piscina enquanto aprimoro minhas habilidades e busco uma oportunidade no na area da tecnologia !.
-- 🌱 Estou constantemente aprendendo e buscando maneiras de me aprimorar em JavaScript e tecnologias relacionadas.
-- 📚 Tenho uma base sólida em HTML, CSS, Git e GitHub e estudo muito sobre JavaScript.
-- 🚀 Estou empolgado em trabalhar em projetos desafiadores e colaborar com outros desenvolvedores talentosos.
+---
 
-## Objetivos
+## 🛠 **Tecnologias & Habilidades**
 
-Meus principais objetivos incluem:
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- Expandir meu conhecimento em JavaScript e suas bibliotecas/frameworks.
-- Trabalhar em projetos do mundo real para ganhar experiência prática.
-- Colaborar com outros profissionais de tecnologia.
-- Contribuir para projetos de código aberto.
+- **Front-End**: HTML5, CSS3, Tailwind, Responsive Design  
+- **Frameworks**: React, Next.js  
+- **Ferramentas**: Git, GitHub, Vercel  
+- **Estudando**: TypeScript, Node.js  
 
-## Oportunidades
+---
 
-Estou aberto a várias oportunidades, incluindo:
+## 🚀 **Projetos Destacados**
 
-- Estágios ou posições de desenvolvimento juniores.
-- Colaboração em projetos de código aberto.
-- Trabalho freelance em projetos web.
+| Projeto | Descrição | Tecnologias | Deploy |
+|---------|-----------|------------|--------|
+| **[Commit.dev.br](https://commit.dev.br)** | Portfólio profissional com projetos | Next.js, Tailwind | Vercel |
 
-Se você está procurando um desenvolvedor JavaScript apaixonado e disposto a aprender, fique à vontade para entrar em contato comigo! Estou ansioso para contribuir e crescer como desenvolvedor.
 
-## Contato
+---
 
-- LinkedIn: https://www.linkedin.com/in/lucas-veloz0
-- Email: lucas.geliet@gmail.com .
-- Portifólio: https://lucasveloz0.github.io/lucasveloz0/
+## 📌 **Objetivos Atuais**
 
-Fique à vontade para entrar em contato para discutir oportunidades ou apenas para trocar ideias sobre desenvolvimento web e JavaScript. Vamos construir algo incrível juntos!
+- 🔍 Buscando **primeira oportunidade profissional** como Front-End Dev.  
+- 📦 Desenvolver **1 projeto open-source** até o final do mês.  
+- 🎯 Dominar **Next.js 15** e **TypeScript**.  
+
+---
+
+## 📫 **Vamos Conversar?**  
+
+💼 **[LinkedIn](https://www.linkedin.com/in/lucas-veloz0)**  
+📧 **lucas.geliet@gmail.com**  
+
+> *"Disponível para freelances, colaborações e oportunidades júnior/estágio."*  
+
+---
+
+![GIF](https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif)  
+*(Código, café e paciência — minha stack secreta.)*

@@ -22,9 +22,9 @@
 ## 🚀 **Projetos Destacados**
 
 | Projeto | Descrição | Tecnologias | Deploy |
-|---------|-----------|------------|--------|
+|---------|-----------|-------------|--------|
 | **[Commit.dev.br](https://commit.dev.br)** | Portfólio profissional com projetos | Next.js, Tailwind | Vercel |
-
+| **[Cardápio Digital](https://github.com/LucasVeloz0/food-nextjs)** | Sistema de cardápio digital com autenticação via Google e MongoDB | Next.js, React, MongoDB, NextAuth, Bcrypt | Em desenvolvimento |
 
 ---
 
